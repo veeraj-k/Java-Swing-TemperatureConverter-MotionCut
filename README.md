@@ -1,7 +1,7 @@
 
 # Java-Swing-TemperatureConverter-MotionCut
 
-A simple Temperature Convertor project based on java and swing.
+A simple Temperature Converter project based on java and swing.
 
 ## Project Desription
 This project is based on Java that seamlessly transforms temperatures between Celsius and Fahrenheit. The user will input a temperature value along with its current unit (either Celsius or Fahrenheit).
