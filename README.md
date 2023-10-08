@@ -9,6 +9,11 @@ Once the user submits the input, the program will dynamically convert the temper
 
 ## Screenshots
 
+[ScreenShot 1](https://github.com/veeraj-k/Java-Swing-TemperatureConverter-MotionCut/blob/main/screenshots/1.png)
+
+[ScreenShot 2](https://github.com/veeraj-k/Java-Swing-TemperatureConverter-MotionCut/blob/main/screenshots/2.png)
+
+[Demo Video](https://github.com/veeraj-k/Java-Swing-TemperatureConverter-MotionCut/blob/main/screenshots/Temperature%20convertor.mkv)
 
 ## Utilities Used
 
