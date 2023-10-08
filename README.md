@@ -17,7 +17,11 @@ Once the user submits the input, the program will dynamically convert the temper
 [Demo Video](https://github.com/veeraj-k/Java-Swing-TemperatureConverter-MotionCut/blob/main/screenshots/Temperature%20convertor.mkv)
 
 
-https://github.com/veeraj-k/Java-Swing-TemperatureConverter-MotionCut/assets/73791070/34b8f39d-774a-4021-8b2c-5422d25bc48f
+
+https://github.com/veeraj-k/Java-Swing-TemperatureConverter-MotionCut/assets/73791070/11e7a35f-842f-42f1-bb90-59cd775a2909
+
+
+
 
 Source Code: [/src/TemperaturConverter.java](https://github.com/veeraj-k/Java-Swing-TemperatureConverter-MotionCut/blob/main/screenshots/Temperature%20convertor.mkv)
 
